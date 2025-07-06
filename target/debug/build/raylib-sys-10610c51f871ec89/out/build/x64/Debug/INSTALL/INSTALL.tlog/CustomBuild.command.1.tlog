@@ -1,0 +1,10 @@
+^C:\USERS\JAVIB\ONEDRIVE\ESCRITORIO\GRAFICAS\RAYLIB_IMAGE_TUTORIAL\TARGET\DEBUG\BUILD\RAYLIB-SYS-10610C51F871EC89\OUT\BUILD\CMAKEFILES\939311D69DAF76ACB1C39B9841A2C60F\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

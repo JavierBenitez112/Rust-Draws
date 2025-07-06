@@ -1,0 +1,7 @@
+C:/Users/javib/OneDrive/Escritorio/graficas/raylib_image_tutorial/target/debug/build/raylib-sys-aa955d0def1c4c3e/out/lib/raylib.lib
+C:/Users/javib/OneDrive/Escritorio/graficas/raylib_image_tutorial/target/debug/build/raylib-sys-aa955d0def1c4c3e/out/include/raylib.h
+C:/Users/javib/OneDrive/Escritorio/graficas/raylib_image_tutorial/target/debug/build/raylib-sys-aa955d0def1c4c3e/out/include/rlgl.h
+C:/Users/javib/OneDrive/Escritorio/graficas/raylib_image_tutorial/target/debug/build/raylib-sys-aa955d0def1c4c3e/out/include/raymath.h
+C:/Users/javib/OneDrive/Escritorio/graficas/raylib_image_tutorial/target/debug/build/raylib-sys-aa955d0def1c4c3e/out/lib/pkgconfig/raylib.pc
+C:/Users/javib/OneDrive/Escritorio/graficas/raylib_image_tutorial/target/debug/build/raylib-sys-aa955d0def1c4c3e/out/lib/cmake/raylib/raylib-config-version.cmake
+C:/Users/javib/OneDrive/Escritorio/graficas/raylib_image_tutorial/target/debug/build/raylib-sys-aa955d0def1c4c3e/out/lib/cmake/raylib/raylib-config.cmake

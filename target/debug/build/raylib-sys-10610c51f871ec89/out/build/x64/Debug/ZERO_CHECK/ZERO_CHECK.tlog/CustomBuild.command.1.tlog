@@ -1,0 +1,10 @@
+^C:\USERS\JAVIB\ONEDRIVE\ESCRITORIO\GRAFICAS\RAYLIB_IMAGE_TUTORIAL\TARGET\DEBUG\BUILD\RAYLIB-SYS-10610C51F871EC89\OUT\BUILD\CMAKEFILES\939311D69DAF76ACB1C39B9841A2C60F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/javib/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/raylib-sys-5.5.1/raylib -BC:/Users/javib/OneDrive/Escritorio/graficas/raylib_image_tutorial/target/debug/build/raylib-sys-10610c51f871ec89/out/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/javib/OneDrive/Escritorio/graficas/raylib_image_tutorial/target/debug/build/raylib-sys-10610c51f871ec89/out/build/raylib.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

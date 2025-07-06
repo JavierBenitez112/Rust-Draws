@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/javib/OneDrive/Escritorio/graficas/raylib_image_tutorial/target/debug/build/raylib-sys-aa955d0def1c4c3e/out/build/cmake_install.cmake",
+		"C:/Users/javib/OneDrive/Escritorio/graficas/raylib_image_tutorial/target/debug/build/raylib-sys-aa955d0def1c4c3e/out/build/raylib/cmake_install.cmake",
+		"C:/Users/javib/OneDrive/Escritorio/graficas/raylib_image_tutorial/target/debug/build/raylib-sys-aa955d0def1c4c3e/out/build/raylib/external/glfw/cmake_install.cmake",
+		"C:/Users/javib/OneDrive/Escritorio/graficas/raylib_image_tutorial/target/debug/build/raylib-sys-aa955d0def1c4c3e/out/build/raylib/external/glfw/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
